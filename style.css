@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+}
+button{
+    background-color: transparent;
+    height: 30px;
+    border-width: 1px;
+    border-radius: 7px;
+    margin: 0 10px;
+}
+button:hover{
+    background-color:grey;
+}
+.img{
+    text-align: center;
+}
+.bulb{
+    text-align: center;
+}
